@@ -17,8 +17,7 @@ jobs:
       uses: actions/setup-python@v2 # For Python
       with:
         python-version: 3.x
-      # OR
-      with:
+      
         node-version: 14
 
     - name: Install dependencies
