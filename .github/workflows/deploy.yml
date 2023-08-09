@@ -18,7 +18,6 @@ jobs:
       with:
         python-version: 3.x
       # OR
-      uses: actions/setup-node@v2 # For Node.js
       with:
         node-version: 14
 
