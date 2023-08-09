@@ -3,7 +3,7 @@ name: Python Hello World Deployment
 on:
   push:
     branches:
-      - main
+     - main
 
 jobs:
   deploy:
